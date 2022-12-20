@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ecommerceapplication/static/css/main.d755a2a5.css",
-    "main.js": "/ecommerceapplication/static/js/main.2541789d.js",
+    "main.js": "/ecommerceapplication/static/js/main.d1b9d62b.js",
     "static/media/cover-1.png": "/ecommerceapplication/static/media/cover-1.0850f0fb4ed56514f140.png",
     "static/media/watch_4.webp": "/ecommerceapplication/static/media/watch_4.2dabe001c40bee953a72.webp",
     "static/media/speaker2.webp": "/ecommerceapplication/static/media/speaker2.fa84f9ef9fd29622ca40.webp",
@@ -38,10 +38,10 @@
     "static/media/headphones_c_2.webp": "/ecommerceapplication/static/media/headphones_c_2.deddf8e0194f092159bc.webp",
     "index.html": "/ecommerceapplication/index.html",
     "main.d755a2a5.css.map": "/ecommerceapplication/static/css/main.d755a2a5.css.map",
-    "main.2541789d.js.map": "/ecommerceapplication/static/js/main.2541789d.js.map"
+    "main.d1b9d62b.js.map": "/ecommerceapplication/static/js/main.d1b9d62b.js.map"
   },
   "entrypoints": [
     "static/css/main.d755a2a5.css",
-    "static/js/main.2541789d.js"
+    "static/js/main.d1b9d62b.js"
   ]
 }
